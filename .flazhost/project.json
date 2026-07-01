@@ -1,0 +1,9 @@
+{
+  "name": "Quarkus",
+  "language": "java",
+  "install": [],
+  "migrate": [],
+  "start": "PORT=8080 mvn quarkus:dev",
+  "url": "http://localhost:8080",
+  "readyPath": "/"
+}
